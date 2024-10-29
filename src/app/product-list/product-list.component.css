@@ -1,0 +1,38 @@
+section {
+  padding: 0 20px;
+}
+
+.cart-products-header {
+  padding: 8px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-products-header-left {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"] + label {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.retry-button-wrapper {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.retry-button {
+  padding: 10px 20px;
+  font-size: 20px;
+}

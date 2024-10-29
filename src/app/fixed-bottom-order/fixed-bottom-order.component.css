@@ -1,0 +1,13 @@
+.fixed-bottom-order {
+  position: fixed;
+  z-index: 12;
+  background: gray;
+  width: 100%;
+  padding: 20px 16px;
+  margin: 0 auto;
+  bottom: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}

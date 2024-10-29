@@ -1,0 +1,44 @@
+<div class="product-card">
+  <div class="card-body">
+    <div class="card-title">
+      <div>
+        <input
+          type="checkbox"
+          id="product{{ product().id }}"
+          (change)="handleClickCheck()"
+        />
+        <label for="product{{ product().id }}">
+          <img
+            [src]="product().isChecked ? 'check.svg' : 'uncheck.svg'"
+            alt="check"
+          />
+        </label>
+      </div>
+      <span class="product-title">
+        {{ product().productName }}
+      </span>
+      <button class="close-button" (click)="handleClickDelete()">
+        <img src="close.svg" alt="close" />
+      </button>
+    </div>
+    <div class="card-item">
+      <img src="product_image.jpg" alt="prodct-image" width="72" height="72" />
+      <div class="product-property">
+        <span> {{ product().price | number }} | 원 </span>
+        <span>배송비 : 무료배송</span>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <span>총 {{ product().quantity * product().price }}원</span>
+    <div class="card-counter">
+      <button class="quantity_button" (click)="handleClickMinusButton()">
+        <img src="minus.svg" alt="minus" />
+      </button>
+      <span>{{ product().quantity }}개</span>
+      <button class="quantity_button" (click)="handleClickPlusButton()">
+        <img src="plus.svg" alt="plus" />
+      </button>
+    </div>
+  </div>
+</div>

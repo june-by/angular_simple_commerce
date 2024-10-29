@@ -1,0 +1,71 @@
+.product-card {
+  padding-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  border-top: 1px solid gray;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"] + label {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.card-title {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.product-title {
+  flex-grow: 1;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-all;
+}
+
+.close-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.card-item {
+  display: flex;
+  gap: 12px;
+}
+
+.product-property {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-counter {
+  padding: 6.5px 6px;
+
+  display: flex;
+  gap: 4px;
+}
+
+.quantity_button {
+  background: none;
+  border: 0.1px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

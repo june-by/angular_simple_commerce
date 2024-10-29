@@ -1,0 +1,25 @@
+<section>
+  <div class="cart-products-header">
+    <div class="cart-products-header-left">
+      <input type="checkbox" id="check-all" (change)="handleClickAll()" />
+      <label for="check-all">
+        <img [src]="isAllChecked ? 'check.svg' : 'uncheck.svg'" alt="check" />
+      </label>
+      <span>전체선택</span>
+    </div>
+    <button>선택삭제</button>
+  </div>
+  <div>
+    @if (isError()) {
+    <div class="retry-button-wrapper">
+      <button class="retry-button" (click)="handleClickRetryButton()">
+        retry
+      </button>
+    </div>
+    } @else if (isFetching()) {
+    <app-loading />
+    }@else { @for (product of products; track product.id) {
+    <app-product-card [product]="product" />
+    } }
+  </div>
+</section>
