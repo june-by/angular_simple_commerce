@@ -2,7 +2,7 @@
 <div class="retry-button-wrapper">
   <button class="retry-button">retry</button>
 </div>
-} @else if (isFetching()) {
+} @else if (isFetching() && products.length === 0) {
 <app-loading />
 }@else {
 <section>
@@ -10,4 +10,7 @@
   <app-product-card [product]="product" />
   }
 </section>
+} @if (isFetching() && products.length > 0) {
+<app-loading height="50px" />
 }
+<div #anchor></div>
