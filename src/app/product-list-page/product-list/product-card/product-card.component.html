@@ -1,8 +1,11 @@
 <div class="product-card">
   <div class="product-image-wrapper">
     <img class="product-image" src="product_image.jpg" alt="product-image" />
-    <button class="cart-button">
-      <img src="cart-empty.svg" alt="cart" />
+    <button class="cart-button" (click)="handleClickCartButton()">
+      <img
+        [src]="product().isInCart ? 'cart.svg' : 'cart-empty.svg'"
+        alt="cart"
+      />
     </button>
   </div>
   <div class="product-info">

@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable, signal } from '@angular/core';
 import { ProductType } from '../../model/product.model';
+import { CartService } from './header/cart-button/cart.service';
 
 const PRODUCT_API_URL = 'http://localhost:3000/products';
 @Injectable({
@@ -8,12 +9,30 @@ const PRODUCT_API_URL = 'http://localhost:3000/products';
 })
 export class ProductService {
   private httpClient = inject(HttpClient);
+  private cartService = inject(CartService);
+
   productListData = signal<ProductType[]>([]);
   isFetching = signal(true);
   isError = signal(false);
 
   get products() {
-    return this.productListData();
+    return this.productListData().map((product) => {
+      if (
+        this.cartService.products.find(
+          (cartProduct) => cartProduct.id === product.id
+        )
+      ) {
+        return {
+          ...product,
+          isInCart: true,
+        };
+      } else {
+        return {
+          ...product,
+          isInCart: false,
+        };
+      }
+    });
   }
 
   loadProducts() {
