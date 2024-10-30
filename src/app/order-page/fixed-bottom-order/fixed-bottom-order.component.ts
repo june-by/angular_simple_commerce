@@ -1,6 +1,6 @@
 import { Component, inject } from '@angular/core';
-import { ProductService } from '../product-list/product.service';
 import { CommonModule } from '@angular/common';
+import { OrderService } from '../order-list/order.service';
 
 @Component({
   selector: 'app-fixed-bottom-order',
@@ -10,13 +10,13 @@ import { CommonModule } from '@angular/common';
   styleUrl: './fixed-bottom-order.component.css',
 })
 export class FixedBottomOrderComponent {
-  private productService = inject(ProductService);
+  private orderService = inject(OrderService);
 
   get checkedProductsCount() {
-    return this.productService.checkedProducts.length;
+    return this.orderService.checkedProducts.length;
   }
 
   get totalPrice() {
-    return this.productService.totalPrice;
+    return this.orderService.totalPrice;
   }
 }

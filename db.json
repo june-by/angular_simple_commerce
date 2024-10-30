@@ -5,8 +5,7 @@
       "productName": "WOMAN GNRL 케이블 풀오버 [IVORY] / WBC3L05502",
       "price": 69000,
       "priorityScore": 610,
-      "recommendCode": 354,
-      "isRemoved": true
+      "recommendCode": 354
     },
     {
       "id": "2308903",
@@ -14,16 +13,14 @@
       "price": 48000,
       "availableCoupon": true,
       "priorityScore": 910,
-      "recommendCode": 793,
-      "isRemoved": true
+      "recommendCode": 793
     },
     {
       "id": "1807184",
       "productName": "23AW Voyager Balmacaan Coat (Dark Navy)",
       "price": 428000,
       "priorityScore": 190,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1215988",
@@ -31,56 +28,49 @@
       "price": 89000,
       "priorityScore": 460,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": true
+      "recommendCode": 793
     },
     {
       "id": "1911054",
       "productName": "TD5-SH07 페이퍼셔츠 (10 Color)",
       "price": 59700,
       "priorityScore": 700,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2155167",
       "productName": "WOMAN GNRL 에센셜 가디건 [5COL] / WBC3L04503",
       "price": 85000,
       "priorityScore": 440,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2303540",
       "productName": "[FW23]아톰 후디 남성(6colors)",
       "price": 410000,
       "priorityScore": 750,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "884789",
       "productName": "Basic Fit Ball Cap (6color)",
       "price": 39000,
       "priorityScore": 50,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1109224",
       "productName": "[Exclusive] Holiday Signature Ball Cap (20Colors)",
       "price": 39000,
       "priorityScore": 250,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "785342",
       "productName": "[1+1] 베이직 무지 롱 슬리브 102-CVL 17수 긴팔티",
       "price": 34000,
       "priorityScore": 840,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2201224",
@@ -88,8 +78,7 @@
       "price": 138000,
       "priorityScore": 520,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2253393",
@@ -97,16 +86,14 @@
       "productName": "[Woman]케이블 울 니트 가디건_Ivory",
       "availableCoupon": true,
       "priorityScore": 20,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1904757",
       "productName": "Margaret Sweatshirt - Oatmeal",
       "price": 72000,
       "priorityScore": 310,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1197485",
@@ -114,8 +101,7 @@
       "price": 89000,
       "priorityScore": 630,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2238445",
@@ -123,32 +109,28 @@
       "price": 49000,
       "priorityScore": 750,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "675357",
       "productName": "[ESSENTIAL] Silk 100% Scarf 01",
       "price": 58000,
       "priorityScore": 270,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1849002",
       "productName": "Cosymosy Mini Bird Keyring - Light Gray",
       "price": 26000,
       "priorityScore": 720,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2243981",
       "productName": "[ 단독_혜원착용]11/27일 예약발송_4차리오더_리사이클 부클 카라 버튼업 니트 자켓_COCOA",
       "price": 149000,
       "priorityScore": 60,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1289480",
@@ -156,24 +138,21 @@
       "price": 69000,
       "priorityScore": 710,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2259490",
       "productName": "[스페셜오더 -11/5까지]  NEW SOFT LONG SLEEVE TOP",
       "price": 46000,
       "priorityScore": 30,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1266781",
       "productName": "롱 슬리브 머플러 (Black)",
       "price": 89000,
       "priorityScore": 890,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1669470",
@@ -181,8 +160,7 @@
       "price": 99000,
       "priorityScore": 50,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2264849",
@@ -190,8 +168,7 @@
       "price": 289000,
       "priorityScore": 290,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2262076",
@@ -199,8 +176,7 @@
       "price": 259000,
       "availableCoupon": true,
       "priorityScore": 130,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2167867",
@@ -208,16 +184,14 @@
       "price": 31000,
       "priorityScore": 360,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2117596",
       "productName": "[노스페이스] 뉴 퍼피 베스트 NV3NP50A_BLK",
       "price": 159000,
       "priorityScore": 640,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2270681",
@@ -225,8 +199,7 @@
       "price": 388000,
       "priorityScore": 810,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2219688",
@@ -234,24 +207,21 @@
       "price": 315000,
       "priorityScore": 200,
       "availableCoupon": true,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "1340400",
       "productName": "[11월 20일 예약배송] Winter Rocky Pants 2color 윈터 로키팬츠 OG",
       "price": 79000,
       "priorityScore": 480,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1684485",
       "productName": "(6 COLOR) 코튼 워셔블 하찌 하프 집업 니트",
       "price": 69000,
       "priorityScore": 660,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1790378",
@@ -259,8 +229,7 @@
       "price": 30000,
       "priorityScore": 100,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2265519",
@@ -268,8 +237,7 @@
       "price": 5000,
       "priorityScore": 390,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1287090",
@@ -277,24 +245,21 @@
       "price": 119000,
       "priorityScore": 580,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1343330",
       "productName": "PASTEL KNIT MUFFLER_GRAY",
       "price": 47000,
       "priorityScore": 170,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2030332",
       "productName": "MATIN BLACK BUNNY TOY KEYRING IN BLACK",
       "price": 38000,
       "priorityScore": 800,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2245019",
@@ -302,8 +267,7 @@
       "price": 147000,
       "priorityScore": 140,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1256092",
@@ -311,8 +275,7 @@
       "price": 353100,
       "priorityScore": 920,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1102553",
@@ -320,16 +283,14 @@
       "price": 38000,
       "priorityScore": 530,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2242617",
       "productName": "NBNPD42903 / UNI 액티브 라이트 경량 구스다운 (BLACK)",
       "price": 159000,
       "priorityScore": 360,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "824183",
@@ -337,8 +298,7 @@
       "price": 96000,
       "availableCoupon": true,
       "priorityScore": 500,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2281905",
@@ -346,8 +306,7 @@
       "price": 104000,
       "priorityScore": 810,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1211307",
@@ -355,8 +314,7 @@
       "price": 108000,
       "priorityScore": 590,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1818271",
@@ -364,8 +322,7 @@
       "price": 105000,
       "priorityScore": 360,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2283597",
@@ -373,8 +330,7 @@
       "price": 258000,
       "priorityScore": 20,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2184800",
@@ -382,16 +338,14 @@
       "price": 339000,
       "priorityScore": 540,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1817470",
       "productName": "LMJ Gold Button Wrap One-piece_black",
       "price": 218000,
       "priorityScore": 570,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2209876",
@@ -399,8 +353,7 @@
       "price": 368000,
       "priorityScore": 210,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2293938",
@@ -408,8 +361,7 @@
       "price": 279000,
       "availableCoupon": true,
       "priorityScore": 740,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "290158",
@@ -417,32 +369,28 @@
       "price": 63000,
       "priorityScore": 550,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1203101",
       "productName": "[2장 세트] 에센셜 세미 와이드 스웨트팬츠 (3color)",
       "price": 133800,
       "priorityScore": 670,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1246873",
       "productName": "[4PACK] 1507 유니섹스 컬러 애슬레틱 삭스 - 컬러 선택형",
       "price": 14900,
       "priorityScore": 380,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2201055",
       "productName": "Cambon Shearing Vest (Beige)",
       "price": 158000,
       "priorityScore": 660,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1876323",
@@ -450,16 +398,14 @@
       "price": 8500,
       "priorityScore": 200,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1838223",
       "productName": "[FEATHERDOWN]페더다운 HD JACKET",
       "price": 315000,
       "priorityScore": 20,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1942909",
@@ -467,24 +413,21 @@
       "price": 43900,
       "priorityScore": 330,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2178308",
       "productName": "Dumble Sweater Brushed",
       "price": 109000,
       "priorityScore": 960,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1149035",
       "productName": "[선물옵션] 20mm eco leather belt - [silver/gold/brown]",
       "price": 29000,
       "priorityScore": 70,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2236797",
@@ -492,24 +435,21 @@
       "price": 35000,
       "priorityScore": 580,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1614949",
       "productName": "Voyage Baseball Cap (Terracotta)",
       "price": 39000,
       "priorityScore": 680,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1547683",
       "productName": "[3PACK] 1507 애슬레틱 케어 삭스 - 아이보리/블랙",
       "price": 13000,
       "priorityScore": 380,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1702059",
@@ -517,8 +457,7 @@
       "price": 87000,
       "priorityScore": 540,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2189270",
@@ -526,8 +465,7 @@
       "price": 45000,
       "priorityScore": 530,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2263281",
@@ -535,24 +473,21 @@
       "price": 12500,
       "priorityScore": 180,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1207832",
       "productName": "SI TP 5042 Foxhound Sweat shirt_Melange gray",
       "price": 87000,
       "priorityScore": 750,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1866581",
       "productName": "[스페셜오더]_(couple) Blue Mountains Pajama Set",
       "price": 184000,
       "priorityScore": 180,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2158524",
@@ -560,8 +495,7 @@
       "price": 398000,
       "priorityScore": 920,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2255254",
@@ -569,16 +503,14 @@
       "price": 219000,
       "priorityScore": 360,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1688794",
       "productName": "[스페셜오더][5차 리오더] Vanilla V-neck knit_4colors",
       "price": 84000,
       "priorityScore": 780,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1105294",
@@ -586,8 +518,7 @@
       "price": 39000,
       "priorityScore": 80,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2030014",
@@ -595,8 +526,7 @@
       "price": 32000,
       "priorityScore": 870,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1767301",
@@ -604,16 +534,14 @@
       "price": 199000,
       "priorityScore": 740,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1779839",
       "productName": "Very U baraclava_4color",
       "price": 45000,
       "priorityScore": 560,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "2201632",
@@ -621,8 +549,7 @@
       "price": 409000,
       "priorityScore": 430,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1301758",
@@ -630,8 +557,7 @@
       "price": 29000,
       "priorityScore": 960,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2034152",
@@ -639,16 +565,14 @@
       "price": 54000,
       "priorityScore": 710,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1876159",
       "productName": "UNISEX DUNST LOGO CREASE SWEATSHIRT FRENCH NAVY_UDTS3C103N2",
       "price": 69000,
       "priorityScore": 140,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1798280",
@@ -656,8 +580,7 @@
       "price": 220000,
       "priorityScore": 960,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2198961",
@@ -665,16 +588,14 @@
       "price": 9000,
       "priorityScore": 810,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1942975",
       "productName": "쿨핏 브라 볼륨핏",
       "price": 53900,
       "priorityScore": 550,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2156572",
@@ -682,8 +603,7 @@
       "price": 58000,
       "priorityScore": 600,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2313397",
@@ -691,8 +611,7 @@
       "price": 329000,
       "availableCoupon": true,
       "priorityScore": 70,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1883122",
@@ -700,8 +619,7 @@
       "price": 85000,
       "priorityScore": 170,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "613288",
@@ -709,16 +627,14 @@
       "price": 32000,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "1415918",
       "productName": "[10PACK] 1507 모노 트라우져 하프 삭스 - 스노우화이트/화이트/블랙",
       "price": 24000,
       "priorityScore": 650,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2201210",
@@ -726,8 +642,7 @@
       "price": 249000,
       "priorityScore": 740,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "999313",
@@ -735,8 +650,7 @@
       "price": 45000,
       "priorityScore": 800,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1227771",
@@ -744,8 +658,7 @@
       "price": 57000,
       "priorityScore": 10,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2280725",
@@ -753,16 +666,14 @@
       "price": 169000,
       "priorityScore": 700,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1779834",
       "productName": "Wint fur beanie_4color",
       "price": 48000,
       "priorityScore": 320,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1809609",
@@ -770,16 +681,14 @@
       "price": 15200,
       "priorityScore": 230,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2238010",
       "productName": "TD5-SW01 램스울 라운드 니트 (8 Color)",
       "price": 59500,
       "priorityScore": 850,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "941092",
@@ -787,16 +696,14 @@
       "price": 13900,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1848997",
       "productName": "Cosymosy Mini Bird Keyring - White",
       "price": 26000,
       "priorityScore": 870,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1285599",
@@ -804,8 +711,7 @@
       "price": 43000,
       "priorityScore": 150,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2136088",
@@ -813,16 +719,14 @@
       "price": 590000,
       "priorityScore": 360,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1356830",
       "productName": "[노스페이스] 빅 로고 비니 NE3BN50B_NAV",
       "price": 29000,
       "priorityScore": 190,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1102014",
@@ -830,16 +734,14 @@
       "price": 138000,
       "priorityScore": 850,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2174040",
       "productName": "[SET] (맨투맨 OR 후드 선택) CGP 아치 로고 트레이닝 셋업_네이비",
       "price": 97900,
       "priorityScore": 170,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1193785",
@@ -847,8 +749,7 @@
       "price": 105000,
       "priorityScore": 380,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1985764",
@@ -856,8 +757,7 @@
       "price": 42000,
       "priorityScore": 920,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1702728",
@@ -865,16 +765,14 @@
       "price": 138000,
       "priorityScore": 430,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2169397",
       "productName": "[김소현 착용/7차] 50 Jane Denim (Dark indigo)",
       "price": 89000,
       "priorityScore": 80,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2264231",
@@ -882,8 +780,7 @@
       "price": 72000,
       "priorityScore": 360,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2280915",
@@ -891,8 +788,7 @@
       "price": 129000,
       "priorityScore": 900,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1389339",
@@ -900,24 +796,21 @@
       "price": 109000,
       "priorityScore": 370,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1669469",
       "productName": "(23FW) WARM+ UP QUILTING JACKET IVORY",
       "price": 99000,
       "priorityScore": 270,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2241574",
       "productName": "[29Exclusive] Collar Cardigan(10월13일 예약배송)",
       "price": 128000,
       "priorityScore": 400,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1218510",
@@ -925,8 +818,7 @@
       "price": 148000,
       "priorityScore": 490,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1071376",
@@ -934,8 +826,7 @@
       "price": 39000,
       "priorityScore": 880,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "997655",
@@ -943,8 +834,7 @@
       "price": 148000,
       "priorityScore": 740,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1944881",
@@ -952,8 +842,7 @@
       "price": 42000,
       "priorityScore": 190,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1101687",
@@ -961,8 +850,7 @@
       "price": 42000,
       "priorityScore": 860,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1766721",
@@ -970,8 +858,7 @@
       "price": 116000,
       "priorityScore": 710,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1273914",
@@ -979,8 +866,7 @@
       "price": 34000,
       "priorityScore": 90,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2061809",
@@ -988,8 +874,7 @@
       "price": 79000,
       "priorityScore": 390,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1721847",
@@ -997,8 +882,7 @@
       "price": 156000,
       "priorityScore": 980,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2273901",
@@ -1006,8 +890,7 @@
       "price": 98000,
       "priorityScore": 60,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2248131",
@@ -1015,8 +898,7 @@
       "price": 26000,
       "priorityScore": 450,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1796312",
@@ -1024,8 +906,7 @@
       "price": 157000,
       "priorityScore": 820,
       "availableCoupon": true,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "2117597",
@@ -1033,8 +914,7 @@
       "price": 209000,
       "priorityScore": 760,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2255410",
@@ -1042,8 +922,7 @@
       "price": 99000,
       "priorityScore": 600,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1942803",
@@ -1051,8 +930,7 @@
       "price": 36000,
       "priorityScore": 30,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1386053",
@@ -1060,8 +938,7 @@
       "price": 79000,
       "priorityScore": 850,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1757490",
@@ -1069,8 +946,7 @@
       "price": 379000,
       "priorityScore": 930,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2063517",
@@ -1078,16 +954,14 @@
       "price": 42000,
       "priorityScore": 380,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1828660",
       "productName": "유니섹스 캐주얼 오버 베이직 머플러 그린",
       "price": 27000,
       "priorityScore": 130,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1060677",
@@ -1095,8 +969,7 @@
       "price": 39000,
       "priorityScore": 170,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1173049",
@@ -1104,8 +977,7 @@
       "price": 37000,
       "priorityScore": 330,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2299308",
@@ -1113,8 +985,7 @@
       "price": 60000,
       "availableCoupon": true,
       "priorityScore": 240,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "2201295",
@@ -1122,8 +993,7 @@
       "price": 289000,
       "priorityScore": 550,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2249058",
@@ -1131,8 +1001,7 @@
       "price": 69000,
       "priorityScore": 80,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1268848",
@@ -1140,8 +1009,7 @@
       "price": 29000,
       "priorityScore": 980,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1205002",
@@ -1149,8 +1017,7 @@
       "price": 137000,
       "priorityScore": 770,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2277729",
@@ -1158,16 +1025,14 @@
       "price": 23500,
       "priorityScore": 490,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1675234",
       "productName": "UNISEX CUPID CAMPUS SWEATSHIRT FRENCH NAVY_UDTS3C102N2",
       "price": 69000,
       "priorityScore": 650,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1151243",
@@ -1175,8 +1040,7 @@
       "price": 112000,
       "priorityScore": 440,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "350324",
@@ -1184,8 +1048,7 @@
       "price": 39600,
       "priorityScore": 750,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1814004",
@@ -1193,8 +1056,7 @@
       "price": 462000,
       "priorityScore": 340,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1258576",
@@ -1202,8 +1064,7 @@
       "price": 69000,
       "priorityScore": 830,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1817065",
@@ -1211,8 +1072,7 @@
       "price": 59000,
       "priorityScore": 990,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2270167",
@@ -1220,8 +1080,7 @@
       "price": 115000,
       "priorityScore": 740,
       "availableCoupon": true,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "2160141",
@@ -1229,8 +1088,7 @@
       "price": 94000,
       "priorityScore": 520,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2028704",
@@ -1238,8 +1096,7 @@
       "price": 11900,
       "priorityScore": 920,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "755958",
@@ -1247,8 +1104,7 @@
       "price": 10900,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1909400",
@@ -1256,16 +1112,14 @@
       "price": 89000,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1765571",
       "productName": "[MLB] 루키 언스트럭쳐 볼캡 28종 택1",
       "price": 36000,
       "priorityScore": 510,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "996928",
@@ -1273,8 +1127,7 @@
       "price": 112000,
       "priorityScore": 290,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2292885",
@@ -1282,8 +1135,7 @@
       "price": 30000,
       "priorityScore": 70,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2238562",
@@ -1291,16 +1143,14 @@
       "price": 86000,
       "priorityScore": 710,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2202856",
       "productName": "23FW CHARMANT KNIT (MELANGE)",
       "price": 103000,
       "priorityScore": 390,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "1862677",
@@ -1308,16 +1158,14 @@
       "price": 59000,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1732230",
       "productName": "FLUFFY LONG GLOVES - 9color",
       "price": 29000,
       "priorityScore": 490,
-      "recommendCode": 152,
-      "isRemoved": false
+      "recommendCode": 152
     },
     {
       "id": "2184766",
@@ -1325,8 +1173,7 @@
       "price": 23000,
       "priorityScore": 370,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2263032",
@@ -1334,8 +1181,7 @@
       "price": 189000,
       "priorityScore": 670,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2279448",
@@ -1343,8 +1189,7 @@
       "price": 89000,
       "priorityScore": 890,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1952965",
@@ -1352,8 +1197,7 @@
       "price": 13900,
       "priorityScore": 170,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2161436",
@@ -1361,8 +1205,7 @@
       "price": 69000,
       "priorityScore": 420,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1752056",
@@ -1370,16 +1213,14 @@
       "price": 26000,
       "priorityScore": 760,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2292674",
       "productName": "FLUFFY KNIT MUFFLER & SHORT GLOVES SET",
       "price": 57000,
       "priorityScore": 870,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1700546",
@@ -1387,8 +1228,7 @@
       "price": 54000,
       "priorityScore": 710,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1228035",
@@ -1396,8 +1236,7 @@
       "price": 13900,
       "priorityScore": 390,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1781130",
@@ -1405,16 +1244,14 @@
       "price": 307000,
       "priorityScore": 430,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1705075",
       "productName": "Skiff Superfine Wool Knit Rib Muffler Melange Gray",
       "price": 74000,
       "priorityScore": 620,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2198876",
@@ -1422,16 +1259,14 @@
       "price": 548000,
       "priorityScore": 80,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2281569",
       "productName": "FUZZY LONG GLOVES - 8color",
       "price": 35000,
       "priorityScore": 1000,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1355700",
@@ -1439,16 +1274,14 @@
       "price": 23600,
       "priorityScore": 820,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1224495",
       "productName": "캐시미어 발마칸 코트_black",
       "price": 525000,
       "priorityScore": 610,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1828714",
@@ -1456,8 +1289,7 @@
       "price": 297000,
       "priorityScore": 130,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1011774",
@@ -1465,8 +1297,7 @@
       "price": 130000,
       "priorityScore": 110,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2201058",
@@ -1474,32 +1305,28 @@
       "price": 59000,
       "priorityScore": 590,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2197958",
       "productName": "[노스페이스] 플리스 이어머프 비니 NE3BP54A_BLK",
       "price": 39000,
       "priorityScore": 260,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2246255",
       "productName": "[11/10 예약배송] [단독] 큐피드 하트 토글 진주 목걸이 NZ2132",
       "price": 54000,
       "priorityScore": 740,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2233272",
       "productName": "스트라이프 쓰리 스타 로고 모헤어 비니_블랙(NG2DFUAB23A)",
       "price": 49000,
       "priorityScore": 410,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1280000",
@@ -1507,16 +1334,14 @@
       "price": 49000,
       "priorityScore": 430,
       "availableCoupon": true,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "1895891",
       "productName": "[9차 리오더]Rabbit Sweat Shirt-Black",
       "price": 59000,
       "priorityScore": 830,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1761342",
@@ -1524,8 +1349,7 @@
       "price": 257000,
       "priorityScore": 70,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "2137891",
@@ -1533,16 +1357,14 @@
       "price": 39000,
       "priorityScore": 160,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1849021",
       "productName": "Cosymosy Ugly Bird Keyring - White",
       "price": 26000,
       "priorityScore": 20,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1899751",
@@ -1550,8 +1372,7 @@
       "price": 79000,
       "priorityScore": 40,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1866977",
@@ -1559,16 +1380,14 @@
       "price": 43000,
       "priorityScore": 510,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "609973",
       "productName": "[기모선택옵션] 페이트로 7601 세미와이드핏 크림 데님팬츠",
       "price": 69500,
       "priorityScore": 140,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1743680",
@@ -1576,8 +1395,7 @@
       "price": 210000,
       "priorityScore": 990,
       "availableCoupon": true,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "505486",
@@ -1585,40 +1403,35 @@
       "price": 29800,
       "priorityScore": 320,
       "availableCoupon": true,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "2236556",
       "productName": "RACCOON BLENDED CARDIGAN V NECK SPADE_MINT",
       "price": 158000,
       "priorityScore": 800,
-      "recommendCode": 354,
-      "isRemoved": false
+      "recommendCode": 354
     },
     {
       "id": "1338357",
       "productName": "NORTHERN HALF ZIP KNIT PULLOVER - 4 COLOR",
       "price": 179000,
       "priorityScore": 470,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "2172125",
       "productName": "[6차] 50 Jane Denim (Black)",
       "price": 89000,
       "priorityScore": 990,
-      "recommendCode": 793,
-      "isRemoved": false
+      "recommendCode": 793
     },
     {
       "id": "1913053",
       "productName": "[29Exlclusive]컴포트 후디 집업 니트(3COLORS)",
       "price": 139000,
       "priorityScore": 210,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2182230",
@@ -1626,16 +1439,14 @@
       "price": 42000,
       "priorityScore": 480,
       "availableCoupon": true,
-      "recommendCode": 466,
-      "isRemoved": false
+      "recommendCode": 466
     },
     {
       "id": "1696690",
       "productName": "WIDE SWEATPANTS_15COLORS",
       "price": 40900,
       "priorityScore": 10,
-      "recommendCode": 338,
-      "isRemoved": false
+      "recommendCode": 338
     },
     {
       "id": "2174168",
@@ -1645,5 +1456,35 @@
       "recommendCode": 466
     }
   ],
-  "order": []
+  "cart": [
+    {
+      "id": "1807184",
+      "productName": "23AW Voyager Balmacaan Coat (Dark Navy)",
+      "price": 428000,
+      "priorityScore": 190,
+      "recommendCode": 354
+    },
+    {
+      "id": "1215988",
+      "productName": "OG Pigment dyeing hoody 002 _ charcoal",
+      "price": 89000,
+      "priorityScore": 460,
+      "availableCoupon": true,
+      "recommendCode": 793
+    },
+    {
+      "id": "1696690",
+      "productName": "WIDE SWEATPANTS_15COLORS",
+      "price": 40900,
+      "priorityScore": 10,
+      "recommendCode": 338
+    },
+    {
+      "id": "2174168",
+      "productName": "SWEATSHIRT FLOWERMARDI_BLACK PINK",
+      "price": 75000,
+      "priorityScore": 820,
+      "recommendCode": 466
+    }
+  ]
 }

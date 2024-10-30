@@ -7,5 +7,4 @@ export interface ProductType {
   recommendCode: number;
   isChecked: boolean;
   quantity: number;
-  isRemoved: boolean;
 }
