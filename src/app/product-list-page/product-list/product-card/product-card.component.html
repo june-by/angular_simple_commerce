@@ -1,0 +1,12 @@
+<div class="product-card">
+  <div class="product-image-wrapper">
+    <img class="product-image" src="product_image.jpg" alt="product-image" />
+    <button class="cart-button">
+      <img src="cart-empty.svg" alt="cart" />
+    </button>
+  </div>
+  <div class="product-info">
+    <div>{{ product().productName }}</div>
+    <div>{{ product().price | number }}원</div>
+  </div>
+</div>

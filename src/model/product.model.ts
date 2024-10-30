@@ -5,6 +5,9 @@ export interface ProductType {
   imageUrl: string;
   priorityScore: number;
   recommendCode: number;
+}
+
+export interface OrderProductType extends ProductType {
   isChecked: boolean;
   quantity: number;
 }

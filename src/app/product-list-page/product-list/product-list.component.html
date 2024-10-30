@@ -1,1 +1,13 @@
-<p>product-list works!</p>
+@if (isError()) {
+<div class="retry-button-wrapper">
+  <button class="retry-button">retry</button>
+</div>
+} @else if (isFetching()) {
+<app-loading />
+}@else {
+<section>
+  @for (product of products; track product.id) {
+  <app-product-card [product]="product" />
+  }
+</section>
+}

@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable, signal } from '@angular/core';
 import { catchError, map, Observable, tap, throwError } from 'rxjs';
-import { ProductType } from '../../../model/product.model';
+import { OrderProductType, ProductType } from '../../../model/product.model';
 
 const CART_API_URL = 'http://localhost:3000/cart';
 
@@ -10,7 +10,7 @@ const CART_API_URL = 'http://localhost:3000/cart';
 })
 export class OrderService {
   private httpClient = inject(HttpClient);
-  orderProductListData = signal<ProductType[]>([]);
+  orderProductListData = signal<OrderProductType[]>([]);
   isFetching = signal(true);
   isError = signal(false);
 

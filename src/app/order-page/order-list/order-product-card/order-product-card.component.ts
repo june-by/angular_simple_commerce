@@ -1,7 +1,7 @@
 import { Component, inject, input, signal } from '@angular/core';
 import { OrderService } from '../order.service';
 import { CommonModule } from '@angular/common';
-import { ProductType } from '../../../../model/product.model';
+import { OrderProductType } from '../../../../model/product.model';
 
 @Component({
   selector: 'app-order-product-card',
@@ -14,7 +14,7 @@ export class OrderProductCardComponent {
   private orderService = inject(OrderService);
   isRemoveLoading = signal(false);
 
-  product = input.required<ProductType>();
+  product = input.required<OrderProductType>();
 
   handleClickPlusButton() {
     this.orderService.addProductQuantity(this.product().id);
