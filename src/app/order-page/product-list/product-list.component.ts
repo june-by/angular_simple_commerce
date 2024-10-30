@@ -1,7 +1,7 @@
 import { Component, inject, OnInit, signal } from '@angular/core';
 import { ProductCardComponent } from './product-card/product-card.component';
 import { ProductService } from './product.service';
-import { LoadingComponent } from '../loading/loading.component';
+import { LoadingComponent } from '../../loading/loading.component';
 
 @Component({
   selector: 'app-product-list',
